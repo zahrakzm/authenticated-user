@@ -1,0 +1,23 @@
+*{
+    background-color: #200780;
+}
+.login-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+}
+button{
+    font-size: 20px;
+    color:#FFF;
+    background-color: transparent;
+    border: 1px solid;
+}
+h1{
+    color: #FFF
+}

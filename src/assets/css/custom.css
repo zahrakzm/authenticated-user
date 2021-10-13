@@ -1,0 +1,32 @@
+table {
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  border: 1px solid #fff;
+  border-collapse: collapse;
+
+
+}
+table td{
+    border: 1px solid #fff;
+    border-collapse: collapse;
+}
+.main-head{
+  color: #FFF;
+    align-items: center;
+    text-align: center;
+    margin-top: 20%; 
+}
+.log-out{
+  margin: 10px;
+  padding: 10px;
+    margin-left: 50%;
+}
+#flex-area{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 200px;
+  margin: auto;
+}
